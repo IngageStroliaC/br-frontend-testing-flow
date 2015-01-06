@@ -1,5 +1,5 @@
 {
-  "name": "br-frontend-testing-ingagestroliac",
+  "name": "br-frontend-testing-ingagestroliaccd",
   "root": "dist",
   "clean_urls": true,
   "error_page": "error.html"
